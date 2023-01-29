@@ -1,0 +1,7 @@
+--class-path src
+--dce full
+--main Main
+
+--each
+
+--hl build/bf.hl
